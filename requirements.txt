@@ -6,6 +6,6 @@ Pillow
 yt-dlp
 moviepy
 pyserial
-streamlit 
+streamlit==1.38.0   
 streamlit-webrtc
 av
